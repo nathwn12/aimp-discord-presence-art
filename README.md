@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/icon.svg" width="120" height="120" alt="aimp-discord-presence-art icon" />
-</p>
 <h1 align="center">aimp-discord-presence-art</h1>
 <p align="center"><strong>Cover art for the AIMP Discord Rich Presence - art only, no code.</strong></p>
 
