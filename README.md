@@ -16,7 +16,7 @@ Public cover-art host for the AIMP Discord Rich Presence. Files under `covers/` 
 | `assets/` | Repo artwork: `icon.svg` for the header, `signature.svg` for the house footer |
 | `LICENSE` | MIT |
 
-140 covers ship in `covers/` today, alongside a `black.png` used when no track art exists. Every entry is a plain image blob, so nothing sits between the URL and the bytes: no download step, no build, no manifest.
+145 covers ship in `covers/` today, alongside a `black.png` used when no track art exists. Every entry is a plain image blob, so nothing sits between the URL and the bytes: no download step, no build, no manifest.
 
 ## Consumed art
 
