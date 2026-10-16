@@ -5,7 +5,7 @@
 
 Public cover-art host for the AIMP Discord Rich Presence. Files under `covers/` are consumed over raw.githubusercontent by the presence client. This repo is art only and contains no code.
 
-Layout: `covers/` holds one cover image per track, named after the SHA-256 of the source art plus `.jpg` — 145 covers today, alongside a `black.png` used when no track art exists; `assets/` holds the repo artwork (`icon.svg` for the header, `signature.svg` for the house footer); `LICENSE` is MIT. Every entry is a plain image blob, so nothing sits between the URL and the bytes: no download step, no build, no manifest.
+Layout: `covers/` holds one cover image per track, named after the SHA-256 of the source art plus `.jpg` — 145 covers today, alongside a `black.png` used when no track art exists; `assets/` holds the house footer (`signature.svg`); `LICENSE` is MIT. Every entry is a plain image blob, so nothing sits between the URL and the bytes: no download step, no build, no manifest.
 
 The presence client builds one raw URL per track and requests it directly:
 
